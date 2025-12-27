@@ -1,0 +1,12 @@
+{
+    "esbonio.sphinx.confDir": "",
+    "terminal.integrated.env.osx": { // 将仓库根目录加入默认路径
+        "PYTHONPATH": "${workspaceFolder}/",
+    },
+    "terminal.integrated.env.linux": {  // 将仓库根目录加入默认路径
+        "PYTHONPATH": "${workspaceFolder}/",
+    },
+    "terminal.integrated.env.windows": {  // 将仓库根目录加入默认路径
+        "PYTHONPATH": "${workspaceFolder}/",
+    },
+}
